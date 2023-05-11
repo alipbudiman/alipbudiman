@@ -3,7 +3,7 @@
 </p>
 
 <p align=center>
-    Im learning programming like full-stack web-dev, mechine learning, chatbot (LINE, Whatsapp, Discord, Telegram), WEB Api, Dev-ops and other coll stuff.
+    Im learning programming like full-stack web-dev, mechine learning, chatbot (LINE, Whatsapp, Discord, Telegram), WEB Api, Dev-ops and other cool stuff.
 </p>
 
 **Human Languages**
