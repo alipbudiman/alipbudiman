@@ -96,14 +96,6 @@
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<br>
-<br>
-<br>
-
-# Alipbudiman's Github Profile Statistics
-
-<img alt="Alipbudiman's Github Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=alipbudiman&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-
 
 <br>
 <br>
