@@ -101,10 +101,19 @@
 <br>
 <br>
 
+# Other Qualifications
+
+- Visual Data
+- Networking
+- Excel, Word, Power Point
+- Facebook & Google Ads
+- Go Gin (Gionic)
+- Json
+- API
+
 # Alipbudiman's Most used Languages
 
 <img alt="Alipbudiman's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipbudiman&theme=algolia&layout=compact&langs_count=6&hide=jupyter%20notebook" height="192px"/>
-
 
 
 
