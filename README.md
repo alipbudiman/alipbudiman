@@ -103,11 +103,16 @@
 
 # Other Qualifications
 
-- Visual Data
-- Networking
+- Visual Data & Statistics
+- Networking (Mikrotik)
 - Excel, Word, Power Point
 - Facebook & Google Ads
 - Go Gin (Gionic)
+- Whatsmeow Library (Unoffcial Whatsapp API)
+- LINE Bot Library (Offcial LINE API)
+- Discord Bot Library (Offcial Discord API)
+- Telegram Bot Library (Offcial Telegram API)
+- Data Scarping
 - Json
 - API
 
