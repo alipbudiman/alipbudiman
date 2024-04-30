@@ -121,5 +121,8 @@
 <img alt="Alipbudiman's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipbudiman&theme=algolia&layout=compact&langs_count=6&hide=jupyter%20notebook" height="192px"/>
 
 
+ [![hannoeru's github stats](https://github-readme-stats.vercel.app/api?username=alipbudiman&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
